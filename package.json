@@ -1,0 +1,25 @@
+{
+  "name": "promise-all-step",
+  "version": "1.0.0",
+  "description": "Like Promise.all(), but execute each task after a timeout which increase by step.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtd97/promise-all-step.git"
+  },
+  "keywords": [
+    "promise",
+    "all",
+    "step",
+    "timeout"
+  ],
+  "author": "Trần Đình Hoàng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangtd97/promise-all-step/issues"
+  },
+  "homepage": "https://github.com/hoangtd97/promise-all-step#readme"
+}
